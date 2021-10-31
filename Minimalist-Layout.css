@@ -19,7 +19,7 @@ text-decoration:underline;
 }
 
 a:hover {
-color:#cccccc;
+color:#d9b9b2;
 text-decoration:none;
 }
 
@@ -30,7 +30,7 @@ margin:6px 0;
 blockquote {
 margin:16px;
 padding:8px;
-background-color:#eeeeee;
+background-color:#bd877d;
 border-top:1px solid #cccccc;
 border-bottom:1px solid #cccccc;
 }
@@ -65,7 +65,7 @@ font-size:1.2em;
 letter-spacing:.1em;
 }
 
-#header {
+#NameAndHeadline {
 margin:0 0 0 0;
 padding:0 0 0 0;
 height:160px;
@@ -73,14 +73,14 @@ background-color:#ffffff;
 border:1px solid #cccccc;
 }
 
-#header h1 {
+#NameAndHeadline h1 {
 margin:0 0 -8px 0;
 padding:16px 0 0 24px;
 font-size:1.7em;
 letter-spacing:.1em;
 }
 
-#header h2 {
+#NameAndHeadline h2 {
 margin:0 0 0 0;
 padding:16px 0 0 24px;
 font-size:.9em;
@@ -88,7 +88,7 @@ font-weight:lighter;
 letter-spacing:.1em;
 }
 
-#fauxRightColumn {
+#BioAndContact {
 position:relative;
 float:right;
 margin:.5em 0 0 .5em;
@@ -99,7 +99,7 @@ background-color:#ffffff;
 border:1px solid #cccccc;
 }
 
-#fauxRightColumn h2 {
+#BioAndContact h2 {
 font-size:.9em;
 }
 
