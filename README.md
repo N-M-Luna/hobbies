@@ -1,2 +1,2 @@
 # n-m-luna.github.io
-Link to N. M Luna's Digitized Illustrations
+Link to N. M Luna's Illustrations and Writing.
