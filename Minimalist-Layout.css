@@ -2,6 +2,16 @@
 Based on "Fixed One-Column Layout (Basic) V1.1" by The CSS Tinderbox 
 *******************************************************/
 
+/* 
+ [Nat Note]:
+      Color Combination for the page:
+      -Dull Medium Green 42966f
+      -Light (Background) ffffff 
+      -Med (Borders and a:hover) cccccc 
+      -Dark (Blockquote) f0f0f0
+      -Black 000000
+*/
+
 body {
 margin:.5em;
 padding:0;
@@ -9,7 +19,7 @@ height:100%;
 background-color:#ffffff;
 color:#000000;  
 text-align:center;
-font-family:Arial, Helvetica, sans-serif;
+font-family:Georgia, Trebuchet MS;
 font-size:16px;
 }
 
@@ -19,8 +29,9 @@ text-decoration:underline;
 }
 
 a:hover {
-color:#d9b9b2;
+color:#ffffff;
 text-decoration:none;
+background-color: #42966f;
 }
 
 p {
@@ -30,13 +41,18 @@ margin:6px 0;
 blockquote {
 margin:16px;
 padding:8px;
-background-color:#bd877d;
+background-color:#f0f0f0;
 border-top:1px solid #cccccc;
 border-bottom:1px solid #cccccc;
 }
 
 blockquote p {
 margin:.2em;
+}
+
+#otherquote {
+margin:16px;
+padding:8px;
 }
 
 ul {
@@ -133,16 +149,3 @@ font-size:.7em;
 background-color:#ffffff;
 border-top:1px solid #cccccc;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
