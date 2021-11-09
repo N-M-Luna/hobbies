@@ -87,7 +87,7 @@ letter-spacing:.1em;
 margin:0 0 0 0;
 padding:0 0 0 0;
 height:140px;
-background-color:#42966f;
+background-color:rgba(66, 150, 111, 0.7);
 /*background-image: linear-gradient(to bottom right, #ffffff, rgba(66, 150, 111, 0.7)); */
 box-shadow: 0 4px 8px 0 rgba(66, 150, 111, 0.3), 0 6px 20px 0 rgba(66, 150, 111, 0.3);
 }
@@ -121,7 +121,7 @@ box-shadow: 0 4px 8px 0 rgba(66, 150, 111, 0.3), 0 6px 20px 0 rgba(66, 150, 111,
 }
 
 #BioAndContact h2 {
-font-size:.9em;
+font-size:1em;
 }
 
 #nav ul {
