@@ -87,8 +87,11 @@ letter-spacing:.1em;
 margin:0 0 0 0;
 padding:0 0 0 0;
 height:140px;
-background-color:rgba(66, 150, 111, 0.7);
-/*background-image: linear-gradient(to bottom right, #ffffff, rgba(66, 150, 111, 0.7)); */
+background-color: rgba(66, 150, 111, 0.6);
+background-image: url(https://n-m-luna.github.io/pen-icon.jpeg);
+background-size: 15%;
+background-repeat: no-repeat;
+background-position: 90% 50%; 
 box-shadow: 0 4px 8px 0 rgba(66, 150, 111, 0.3), 0 6px 20px 0 rgba(66, 150, 111, 0.3);
 }
 
