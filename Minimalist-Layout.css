@@ -19,7 +19,7 @@ height:100%;
 background-color:#ffffff;
 color:#000000;  
 text-align:center;
-font-family:Trebuchet MS, Georgia;
+font-family: Georgia;
 font-size:16px;
 }
 
@@ -125,6 +125,9 @@ box-shadow: 0 4px 8px 0 rgba(66, 150, 111, 0.3), 0 6px 20px 0 rgba(66, 150, 111,
 
 #BioAndContact h2 {
 font-size:1em;
+margin: 10px 0px 10px;
+padding: 5px 5px 5px;
+background-image: linear-gradient(to right, rgba(66, 150, 111, 0.6), rgba(66, 150, 111, 0));
 }
 
 #nav ul {
